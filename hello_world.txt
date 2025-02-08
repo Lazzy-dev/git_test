@@ -1,1 +1,2 @@
 This is some text
+Ask about -m command with git commit
